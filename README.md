@@ -31,4 +31,9 @@ pip install soundfile
 ```bash
 python3 main.py
 ```
+## Use Case
 
+- Encode your text file within your audio file.
+- Save the generated decryption code.
+- Share it with the person who wants to extract the text from the encrypted audio file.
+`The code specifies the intervals at which the decryption tool should search for characters.`

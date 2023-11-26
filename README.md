@@ -21,10 +21,7 @@ Note: This tool exclusively works with .wav files.
 ## Required Python Modules
 
 ```bash
-pip install librosa
-pip install numpy
-pip install scipy
-pip install soundfile
+pip install -r requirements.txt
 ```
 ## Running the script
 

@@ -22,6 +22,7 @@ Note: This tool exclusively works with .wav files.
 
 ```bash
 pip install -r requirements.txt
+#for ease of use, put the audio and text files next to main.py
 ```
 ## Running the script
 
